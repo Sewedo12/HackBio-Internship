@@ -17,6 +17,7 @@ A total of 295 gastric adenocarcinoma tissue samples were collected in a fresh f
 This study identified four primary genomic subtypes of gastric cancer: Epsteinâ€“Barr virus-positive tumors, microsatellite unstable tumors, and those with chromosomal instability as shown in Fig. 1
 
 
+![Fig  1](https://github.com/user-attachments/assets/19a841d6-f782-447d-9e44-b0af828f8ec0)
 
 
 
@@ -27,8 +28,12 @@ This study identified four primary genomic subtypes of gastric cancer: Epsteinâ€
 
 
 
+
+Figure 1: A representation of the genomic subtypes of gastric carcinoma with sample size data
 
 By analyzing the mRNA sequence data for alternative splicing events, about 30 of the sample data showed skipping Mesenchymal Epithelial Transition (MET 2) exon. This has been associated with increased MET expression. Also, novel variants of the same gene, namely MET exon 18 and 19, were skipped, as shown in Fig. 2.
+
+
 
 Based on Reverse Phase Protein Array (RPPA) data analysis, 45 proteins were also expressed or phosphorylated across the four molecular subtypes. Notably, EGFR was significantly phosphorylated in the CIN subtype while expression of the p53 gene was abnormal, which was consistent with TP53 mutation in the same subtype, as shown in Fig. 3.
 
