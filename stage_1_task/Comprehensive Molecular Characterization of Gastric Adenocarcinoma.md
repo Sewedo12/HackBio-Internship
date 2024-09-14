@@ -12,7 +12,23 @@ Before 2014, scientists and the World Health Organization (WHO) worked to classi
 
 A total of 295 gastric adenocarcinoma tissue samples were collected in a fresh frozen state, with no prior chemotherapy or radiation treatment, and with informed consent and approval from the local Institutional Review Board. Gene expression analysis, one of the six different molecular techniques used, measured gene activity across the expression platforms within the study.
 
-By analyzing the mRNA sequence data for alternative splicing events, about 30% of the sample data showed skipping Mesenchymal Epithelial Transition (MET 2) exon. This has been associated with increased MET expression. Also, novel variants of the same gene, namely MET exon 18 and 19, were skipped, as shown in Fig. 2.
+## Results
+
+This study identified four primary genomic subtypes of gastric cancer: Epstein–Barr virus-positive tumors, microsatellite unstable tumors, and those with chromosomal instability as shown in Fig. 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+By analyzing the mRNA sequence data for alternative splicing events, about 30 of the sample data showed skipping Mesenchymal Epithelial Transition (MET 2) exon. This has been associated with increased MET expression. Also, novel variants of the same gene, namely MET exon 18 and 19, were skipped, as shown in Fig. 2.
 
 Based on Reverse Phase Protein Array (RPPA) data analysis, 45 proteins were also expressed or phosphorylated across the four molecular subtypes. Notably, EGFR was significantly phosphorylated in the CIN subtype while expression of the p53 gene was abnormal, which was consistent with TP53 mutation in the same subtype, as shown in Fig. 3.
 
