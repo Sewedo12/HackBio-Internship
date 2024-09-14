@@ -33,9 +33,15 @@ Figure 1: A representation of the genomic subtypes of gastric carcinoma with sam
 
 By analyzing the mRNA sequence data for alternative splicing events, about 30 of the sample data showed skipping Mesenchymal Epithelial Transition (MET 2) exon. This has been associated with increased MET expression. Also, novel variants of the same gene, namely MET exon 18 and 19, were skipped, as shown in Fig. 2.
 
+![Figure 2](https://github.com/user-attachments/assets/96857b14-1c91-4e4d-a63f-9e71f7461f3a)
+
+Figure 2: Reads Per Kilobase per Million mapped reads (RPKM) expression of MET in samples with and without exon (A) or exon 18 and/or 19 (B) skipping in MET.
+
 
 
 Based on Reverse Phase Protein Array (RPPA) data analysis, 45 proteins were also expressed or phosphorylated across the four molecular subtypes. Notably, EGFR was significantly phosphorylated in the CIN subtype while expression of the p53 gene was abnormal, which was consistent with TP53 mutation in the same subtype, as shown in Fig. 3.
+
+
 
 ## Discussion
 
