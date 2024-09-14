@@ -1,6 +1,4 @@
-## Team Lead: Surprise Baloyi
-
-## Members: Sewedo Ajisegiri, Mercy Francis, Salaam Ridwan.
+Group Members: Sewedo Ajisegiri, Surprise Bayoli. Mercy Francis, Salaam Ridwan: LinkedIn Video link: https://www.linkedin.com/posts/sewedo-ajisegiri-6372a6218_cancerstudy-biomarkerdiscovery-hackbiointern-activity-7238229392684965888-f8FT?utm_source=share&utm_medium=member_desktop
 
 ### Comprehensive Molecular Characterization of Gastric Adenocarcinoma
 
@@ -40,6 +38,11 @@ Figure 2: Reads Per Kilobase per Million mapped reads (RPKM) expression of MET i
 
 
 Based on Reverse Phase Protein Array (RPPA) data analysis, 45 proteins were also expressed or phosphorylated across the four molecular subtypes. Notably, EGFR was significantly phosphorylated in the CIN subtype while expression of the p53 gene was abnormal, which was consistent with TP53 mutation in the same subtype, as shown in Fig. 3.
+
+![Fig  3](https://github.com/user-attachments/assets/6f69172d-0a39-41f0-a310-a6da5f5ee773)
+
+Figure 3: Unsupervised hierarchical clustering of RPPA data, identifying three clusters, including reactive, invasive, and proliferative.
+
 
 
 
