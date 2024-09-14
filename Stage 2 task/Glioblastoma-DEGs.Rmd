@@ -1,5 +1,3 @@
-Images are available @ "https://github.com/Sewedo12/HackBio-Internship/blob/main/Stage%202%20task/Glioblastoma-DEGs.pdf"
-
 ---
 title: "Glioblastoma-Stage2"
 output: html_document
