@@ -116,15 +116,21 @@ Feedback mechanisms like suppressor of cytokine signaling (SOCS) proteins contro
 
 <!--[if !supportLists]-->1.     <!--[endif]-->Guillermo Arango Duque and Albert Descoteaux (2014). Macrophage cytokines: involvement in immunity and infectious diseases. _Front. Immunol_, vol 5.
 
+
 <!--[if !supportLists]-->2.     <!--[endif]-->Morris, R., Kershaw, N. J., & Babon, J. J. (2018). The molecular details of cytokine signaling via the JAK/STAT pathway. _Protein science: a publication of the Protein Society_, _27_(12), 1984–2009.
+
 
 <!--[if !supportLists]-->3.     <!--[endif]-->Schreiber, G., & Walter, M. R. (2010). Cytokine-receptor interactions as drug targets. _Current opinion in chemical biology_, _14_(4), 511–519.
 
+
 <!--[if !supportLists]-->4.     <!--[endif]-->Druszczyńska, M., Godkowicz, M., Kulesza, J., Wawrocki, S., & Fol, M. (2022). Cytokine Receptors-Regulators of Antimycobacterial Immune Response. _International journal of molecular sciences_, _23_(3), 1112.
+
 
 <!--[if !supportLists]-->5.     <!--[endif]-->Christiaansen, A., Varga, S. M., & Spencer, J. V. (2015). Viral manipulation of the host immune response. _Current opinion in immunology_, _36_, 54–60.
 
+
 <!--[if !supportLists]-->6.     <!--[endif]-->Wang J, Knaut H. (2014). Chemokine signaling in development and disease. Development. 141(22):4199-205.
+
 
 <!--[if !supportLists]-->7.     <!--[endif]-->Hughes CE, Nibbs RJB. (2018). A guide to chemokines and their receptors. FEBS J. 285 (16):2944-2971.
 
