@@ -1,6 +1,6 @@
 Contributors: Ajisegiri Sewedo, Salaam Ridwan, Adekoya Adepeju, Mansour Balqees, Otuekong Emmanuel, Abodunrin Elizabeth.
 
-**Functional Enrichment Analysis and Top Three Pathways**
+## **Functional Enrichment Analysis and Top Three Pathways**
 
 Pathway enrichment analysis (PEA), a computational methodology, was utilized to discover biological pathways with overrepresented genes in glioblastoma cells. Gene lists were created, enrichment analysis was performed using ShinyGO, and significant pathways were highlighted using a lollipop plot. Here, the pathways are described below:<!--[if mso & !supportInlineShapes & supportFields]><span
 style='mso-element:field-begin;mso-field-lock:yes'></span> SHAPE <span
@@ -106,7 +106,7 @@ When cytokines bind, the receptors activate, often through the involvement of Ja
 
 Feedback mechanisms like suppressor of cytokine signaling (SOCS) proteins control this pathway to prevent excessive immune responses. SOCS proteins inhibit JAK activity, maintaining the balance of immune signaling and avoiding chronic inflammation or autoimmunity <sup>2</sup>.
 
-**Viral protein interaction with cytokine and cytokine receptor pathway **can alter host immunity, allowing viruses to evade detection and enhance their survival. Some viruses produce cytokine homologs, like viral interleukin-10 (vIL-10), which mimics the anti-inflammatory properties of human IL-10<sup>4</sup>. This allows viruses to suppress immune responses and persist within the host. Others block cytokine receptors or produce receptor homologs that bind cytokines without transmitting signals, disrupting the host’s immune response. For example, blocking the JAK-STAT pathway can hinder the host’s ability to mount an effective antiviral defense<sup>5</sup>.
+**Viral protein interaction with cytokine and cytokine receptor pathway** can alter host immunity, allowing viruses to evade detection and enhance their survival. Some viruses produce cytokine homologs, like viral interleukin-10 (vIL-10), which mimics the anti-inflammatory properties of human IL-10<sup>4</sup>. This allows viruses to suppress immune responses and persist within the host. Others block cytokine receptors or produce receptor homologs that bind cytokines without transmitting signals, disrupting the host’s immune response. For example, blocking the JAK-STAT pathway can hinder the host’s ability to mount an effective antiviral defense<sup>5</sup>.
 
 **The chemokine signaling pathway**, activated during inflammation, attracts immune cells to infection sites. Chemokines bind to G-protein-coupled receptors (GPCRs) on immune cells, activating signaling cascades involving kinases (PI3K, MAPK), adaptor proteins (AKT, NF-κB), and second messengers like cAMP. This leads to gene expression changes, cell migration, and immune cell recruitment. Like cytokine signaling, this pathway is tightly regulated to maintain balance, with receptor internalization and G-protein deactivation ensuring controlled immune responses <sup>6,7</sup>.
 
@@ -114,25 +114,25 @@ Feedback mechanisms like suppressor of cytokine signaling (SOCS) proteins contro
 
 **References**
 
-<!--[if !supportLists]-->1.     <!--[endif]-->Guillermo Arango Duque and Albert Descoteaux (2014). Macrophage cytokines: involvement in immunity and infectious diseases. _Front. Immunol_, vol 5.
+1. Guillermo Arango Duque and Albert Descoteaux (2014). Macrophage cytokines: involvement in immunity and infectious diseases. _Front. Immunol_, vol 5.
 
 
-<!--[if !supportLists]-->2.     <!--[endif]-->Morris, R., Kershaw, N. J., & Babon, J. J. (2018). The molecular details of cytokine signaling via the JAK/STAT pathway. _Protein science: a publication of the Protein Society_, _27_(12), 1984–2009.
+2. Morris, R., Kershaw, N. J., & Babon, J. J. (2018). The molecular details of cytokine signaling via the JAK/STAT pathway. _Protein science: a publication of the Protein Society_, _27_(12), 1984–2009.
 
 
-<!--[if !supportLists]-->3.     <!--[endif]-->Schreiber, G., & Walter, M. R. (2010). Cytokine-receptor interactions as drug targets. _Current opinion in chemical biology_, _14_(4), 511–519.
+3. Schreiber, G., & Walter, M. R. (2010). Cytokine-receptor interactions as drug targets. _Current opinion in chemical biology_, _14_(4), 511–519.
 
 
-<!--[if !supportLists]-->4.     <!--[endif]-->Druszczyńska, M., Godkowicz, M., Kulesza, J., Wawrocki, S., & Fol, M. (2022). Cytokine Receptors-Regulators of Antimycobacterial Immune Response. _International journal of molecular sciences_, _23_(3), 1112.
+4. Druszczyńska, M., Godkowicz, M., Kulesza, J., Wawrocki, S., & Fol, M. (2022). Cytokine Receptors-Regulators of Antimycobacterial Immune Response. _International journal of molecular sciences_, _23_(3), 1112.
 
 
-<!--[if !supportLists]-->5.     <!--[endif]-->Christiaansen, A., Varga, S. M., & Spencer, J. V. (2015). Viral manipulation of the host immune response. _Current opinion in immunology_, _36_, 54–60.
+5. Christiaansen, A., Varga, S. M., & Spencer, J. V. (2015). Viral manipulation of the host immune response. _Current opinion in immunology_, _36_, 54–60.
 
 
-<!--[if !supportLists]-->6.     <!--[endif]-->Wang J, Knaut H. (2014). Chemokine signaling in development and disease. Development. 141(22):4199-205.
+6. Wang J, Knaut H. (2014). Chemokine signaling in development and disease. Development. 141(22):4199-205.
 
 
-<!--[if !supportLists]-->7.     <!--[endif]-->Hughes CE, Nibbs RJB. (2018). A guide to chemokines and their receptors. FEBS J. 285 (16):2944-2971.
+7. Hughes CE, Nibbs RJB. (2018). A guide to chemokines and their receptors. FEBS J. 285 (16):2944-2971.
 
 ** **
 
