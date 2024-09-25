@@ -1,3 +1,5 @@
+Contributors: Ajisegiri Sewedo B, Balqees Monsour, Salaam Ridwan, Adekoya Adepeju, Melvin Khakabo, Elizabeth Abodunrin, Otuekong Emmanuel, Samuel Aladegbaiye
+
 ## Identifying and Validating Biomarkers for Breast Invasive Carcinoma through Differential Gene Expression and Functional Enrichment Techniques
 ## Introduction
 Breast Invasive Carcinoma (BRCA) is a prevalent and aggressive form of breast cancer and the second most common cancer among women globally (De Schepper et al., 2022). Molecular techniques have identified biomarkers that can predict tumor behavior and improve treatment responses in various cancers (Neves Rebello et al., 2023). Similarly, this study seeks to use a combination of differential gene expression and functional enrichment analysis to identify important biomarkers for breast cancer.
