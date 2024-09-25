@@ -16,3 +16,7 @@ the normal samples.
 ![lollipop_KEGG20_pathways](https://github.com/user-attachments/assets/8772b56a-3daf-4009-afa1-423e60c545d5)
 Fig. 2: Lollipop plot showing the most affected pathways and the number of genes
 involved
+
+![ML](https://github.com/user-attachments/assets/e5100b75-a5d6-4c8a-9b5b-3829a426d915)
+
+Figure 3: Top 10 Most Important Genes Identified by Random Forest Model for Breast Cancer Classification. 
