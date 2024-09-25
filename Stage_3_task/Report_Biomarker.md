@@ -1,4 +1,4 @@
-Contributors: Ajisegiri Sewedo B, Balqees Monsour, Salaam Ridwan, Adekoya Adepeju, Melvin Khakabo, Elizabeth Abodunrin, Otuekong Emmanuel, Samuel Aladegbaiye
+Contributors: Ajisegiri Sewedo B, Balqees Mansour, Salaam Ridwan, Adekoya Adepeju, Melvin Khakabo, Elizabeth Abodunrin, Otuekong Emmanuel, Samuel Aladegbaiye
 
 ## Identifying and Validating Biomarkers for Breast Invasive Carcinoma through Differential Gene Expression and Functional Enrichment Techniques
 ## Introduction
