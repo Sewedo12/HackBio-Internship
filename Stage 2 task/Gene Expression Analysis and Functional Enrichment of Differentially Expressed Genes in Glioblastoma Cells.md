@@ -1,4 +1,4 @@
-## Title: Gene Expression Analysis and Functional Enrichment of Differentially Expressed Genes in Glioblastoma Cells”
+## Title: Gene Expression Analysis and Functional Enrichment of Differentially Expressed Genes in Glioblastoma Cells
 
 ## Background
 Glioblastoma (GBM) is the most common and aggressive malignant brain tumor in adults. It arises from astrocytes, cells that support neurons. GBMs are fast-growing, invasive tumors that make up about half of all malignant CNS cancers, posing significant treatment challenges.
