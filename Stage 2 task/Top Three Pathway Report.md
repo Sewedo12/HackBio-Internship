@@ -1,4 +1,4 @@
-Contributors: Ajisegiri Sewedo, Salaam Ridwan, Adekoya Adepeju, Mansour Balqees, Otuekong Emmanuel, Abodunrin Elizabeth.
+Contributors: Sewedo Ajisegiri, Salaam Ridwan, Adekoya Adepeju, Mansour Balqees, Otuekong Emmanuel, Abodunrin Elizabeth.
 
 ## **Functional Enrichment Analysis and Top Three Pathways**
 
