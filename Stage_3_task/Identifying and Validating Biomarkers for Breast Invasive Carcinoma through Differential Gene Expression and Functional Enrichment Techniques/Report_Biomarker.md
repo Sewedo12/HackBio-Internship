@@ -15,6 +15,15 @@ Fig. 1: Volcano Plot showing both the upregulated and downregulated genes.
 Fig. 1.1 Boxplot showing the upregulated genes in tumor samples in comparison to
 the normal samples.
 
+![top_20_downregulated_genes](https://github.com/user-attachments/assets/4aabdb60-67ae-4d08-9f9b-1087dbe11adc)
+Fig. 1.2 Boxplot showing the downregulated genes in tumor samples in comparison to
+the normal samples.
+
+
+![lollipop_KEGG20_pathways](https://github.com/user-attachments/assets/8772b56a-3daf-4009-afa1-423e60c545d5)
+Fig. 2: Lollipop plot showing the most affected pathways and the number of genes
+involved
+
 
 
 ## Discussion
