@@ -7,6 +7,12 @@ Breast Invasive Carcinoma (BRCA) is a prevalent and aggressive form of breast ca
 In this study, the BRCA transcriptome dataset was retrieved from the TCGA database using the R studio. The dataset, which includes the gene sets associated with multiple samples, was prepared using the GDCprepare function. Validation checks were conducted and a DESeqDataSet object was created from the count matrix and sample information.  A model design based on tissue type (tumor vs. normal tissue) was specified. Genes with low counts across samples were filtered out to improve statistical power. The reference level for tissue type was set to "normal" to facilitate comparisons against this baseline. The DESeq function and eKegg function were executed to perform differential expression analysis and functional enrichment analysis, respectively. 
 ## Results
 A volcano plot was used to visualize the upregulated and downregulated genes together. Additionally, boxplot charts were used to show the top 20 upregulated genes and top 20 downregulated genes. Similarly, the 20 functionally enriched pathways were shown in a lollipop chart. 
+
+![volcano plot](https://github.com/user-attachments/assets/ee5a937d-9656-490b-8ef4-aadc69f0fc26)
+Fig. 1: Volcano Plot showing both the upregulated and downregulated genes.
+
+
+
 ## Discussion
 This study showed that Neuroactive ligand-receptor interaction is the most functionally enriched pathway. It modulates the tumor microenvironment, influencing cancer cell behavior and immune response (Yang et al., 2023). This is followed by PI3K Akt signaling pathway, which drives cell proliferation, survival, and metastasis (He et al., 2021). Cytokine-cytokine receptor interaction regulates immune responses; can promote tumor growth and metastasis through inflammation (Esquivel-Velázquez et al., 2015). Meanwhile, the PPAR signaling pathway is involved in lipid metabolism and inflammation (Michalik and Wahli, 2008). The fifth pathway on the list is the cell cycle, which controls cell division. The dysregulation leads to uncontrolled proliferation and tumor development (Williams and Stoeber, 2012). 
 ## Conclusion
